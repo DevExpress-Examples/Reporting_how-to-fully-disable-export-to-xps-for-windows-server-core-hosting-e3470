@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomPrintingSystemFactory.cs](./CS/E3470.Web/CustomPrintingSystemFactory.cs) (VB: [CustomPrintingSystemFactory.vb](./VB/E3470.Web/CustomPrintingSystemFactory.vb))
+* [CustomReportPreviewModel.cs](./CS/E3470/CustomReportPreviewModel.cs) (VB: [CustomReportPreviewModel.vb](./VB/E3470/CustomReportPreviewModel.vb))
+* [MainPage.xaml](./CS/E3470/MainPage.xaml) (VB: [MainPage.xaml](./VB/E3470/MainPage.xaml))
+<!-- default file list end -->
 # How to fully disable export to XPS (for Windows Server Core hosting)
 
 

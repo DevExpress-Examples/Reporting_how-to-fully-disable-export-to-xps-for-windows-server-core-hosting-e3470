@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomSessionUtilityService.cs](./CS/E3470.Web/CustomSessionUtilityService.cs) (VB: [CustomSessionUtilityService.vb](./VB/E3470.Web/CustomSessionUtilityService.vb))
+* [Global.asax.cs](./CS/E3470.Web/Global.asax.cs) (VB: [Global.asax.vb](./VB/E3470.Web/Global.asax.vb))
+* [ReportService1.svc.cs](./CS/E3470.Web/ReportService1.svc.cs) (VB: [ReportService1.svc.vb](./VB/E3470.Web/ReportService1.svc.vb))
+* [CustomReportPreviewModel.cs](./CS/E3470/CustomReportPreviewModel.cs) (VB: [CustomReportPreviewModel.vb](./VB/E3470/CustomReportPreviewModel.vb))
+* [MainPage.xaml](./CS/E3470/MainPage.xaml) (VB: [MainPage.xaml](./VB/E3470/MainPage.xaml))
+<!-- default file list end -->
 # How to fully disable export to XPS (for Windows Server Core hosting)
 
 
